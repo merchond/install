@@ -1,0 +1,18 @@
+clear
+cowsay -f ghostbusters merchond.chorex | lolcat
+figlet merchond.chorex | lolcat
+cowsay -f skeleton merchond.chorex | lolcat
+figlet WELCOME | lolcat
+figlet TO | lolcat
+figlet TERMUX | lolcat
+figlet Merchond.chorex | lolcat
+neofetch | lolcat
+cowsay -f milk termux | lolcat
+figlet SUGENG DAWUH| lolcat
+cowsay -f eyes CIPELEM | lolcat
+figlet gunakan | lolcat
+figlet dengan | lolcat
+figlet bijak | lolcat
+cowsay -f meow hy | lolcat
+date | lolcat
+sl | lolcat
